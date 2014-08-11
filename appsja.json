@@ -1,0 +1,168 @@
+{
+    "metaData": {
+        "lastUpdated": "2014-07-17",
+        "versionNumber": 1
+    },
+    "allApps": [
+        {
+            "appid": "561892747",
+            "title": "シンクスコア ベスト・コレクション",
+            "artist": "Various Artists",
+            "iconSrc": "http://zininworks.com/img/app-syncscore.png",
+            "storeLink": "http://itunes.apple.com/us/app/syncscore/id561892747?ls=1&mt=8",
+            "featuredItems": []
+        },
+        {
+            "appid": "440156059",
+            "title": "バッハ ヴァイオリンソナタとパルティータ",
+            "artist": "ユーディ・メニューイン",
+            "iconSrc": "http://zininworks.com/img/440156059.png",
+            "storeLink": "http://itunes.apple.com/us/app/bach-violin-sonatas-partitas/id440156059?mt=8",
+            "featuredItems": ["468615677", "549746311"]
+        },
+        {
+            "appid": "468615677",
+            "title": "バッハ 無伴奏チェロ組曲",
+            "artist": "パブロ・カザルス",
+            "iconSrc": "http://zininworks.com/img/468615677.png",
+            "storeLink": "http://itunes.apple.com/us/app/bach-cello-suites-syncscore/id468615677?mt=8",
+            "featuredItems": ["440156059", "499818071"]
+        },
+        {
+            "appid": "488618314",
+            "title": "バッハ ゴルトベルク変奏曲",
+            "artist": "グレン・グールド",
+            "iconSrc": "http://zininworks.com/img/488618314.png",
+            "storeLink": "http://itunes.apple.com/us/app/bach-goldberg-variations-syncscore/id488618314?mt=8",
+            "featuredItems": ["520091031", "529056912"]
+        },
+        {
+            "appid": "520091031",
+            "title": "バッハ パルティータ",
+            "artist": "ロザリン・テューレック",
+            "iconSrc": "http://zininworks.com/img/520091031.png",
+            "storeLink": "http://itunes.apple.com/us/app/bach-partitas-syncscore/id520091031?mt=8",
+            "featuredItems": ["488618314", "455563613"]
+        },
+        {
+            "appid": "529056912",
+            "title": "ベートーヴェン ピアノソナタ全曲",
+            "artist": "ヴィルヘルム・ケンプ",
+            "iconSrc": "http://zininworks.com/img/529056912.png",
+            "storeLink": "http://itunes.apple.com/us/app/beethoven-complete-piano-sonatas/id529056912?mt=8",
+            "featuredItems": ["549746311", "496176634"]
+        },
+        {
+            "appid": "898150397",
+            "title": "ベートーヴェン 弦楽四重奏曲",
+            "artist": "アマデウス弦楽四重奏団",
+            "iconSrc": "http://zininworks.com/img/898150397.png",
+            "storeLink": "https://itunes.apple.com/us/app/beethoven-complete-string/id898150397?ls=1&mt=8",
+            "featuredItems": ["468615677", "529056912"]
+        },
+        {
+            "appid": "549746311",
+            "title": "ベートーヴェン ヴァイオリンソナタ全曲",
+            "artist": "ヤッシャ・ハイフェッツ",
+            "iconSrc": "http://zininworks.com/img/549746311.png",
+            "storeLink": "http://itunes.apple.com/us/app/beethoven-violin-sonatas-syncscore/id549746311?ls=1&mt=8",
+            "featuredItems": ["529056912", "477067841"]
+        },
+        {
+            "appid": "499818071",
+            "title": "ベートーヴェン チェロソナタ",
+            "artist": "ピエール・フルニエ、フリードリヒ・グルダ",
+            "iconSrc": "http://zininworks.com/img/499818071.png",
+            "storeLink": "http://itunes.apple.com/us/app/beethoven-cello-sonatas-syncscore/id499818071?mt=8",
+            "featuredItems": ["529056912", "590206081"]
+        },
+        {
+            "appid": "477067841",
+            "title": "ブラームス ヴァイオリンソナタ",
+            "artist": "レオニード・コーガン、アンドレー・ミトニク",
+            "iconSrc": "http://zininworks.com/img/477067841.png",
+            "storeLink": "http://itunes.apple.com/us/app/brahms-violin-sonatas-syncscore/id477067841?mt=8",
+            "featuredItems": ["590206081", "440156059"]
+        },
+        {
+            "appid": "590206081",
+            "title": "ブラームス チェロソナタ",
+            "artist": "ピエール・フルニエ、ヴィルヘルム・バックハウス",
+            "iconSrc": "http://zininworks.com/img/590206081.png",
+            "storeLink": "https://itunes.apple.com/us/app/brahms-cello-sonatas-syncscore/id590206081?ls=1&mt=8",
+            "featuredItems": ["477067841", "468615677"]
+        },
+        {
+            "appid": "449119069",
+            "title": "ショパン ワルツ、前奏曲、即興曲",
+            "artist": "アルトゥール・ルービンシュタイン",
+            "iconSrc": "http://zininworks.com/img/449119069.png",
+            "storeLink": "https://itunes.apple.com/us/app/chopin-works-syncscore/id449119069?ls=1&mt=8",
+            "featuredItems": ["577670301", "529056912"]
+        },
+        {
+            "appid": "577670301",
+            "title": "ショパン バラードとスケルツォ",
+            "artist": "アルトゥール・ルービンシュタイン",
+            "iconSrc": "http://zininworks.com/img/577670301.png",
+            "storeLink": "https://itunes.apple.com/us/app/chopin-ballades-scherzos-syncscore/id577670301?mt=8",
+            "featuredItems": ["576215187", "487097767"]
+        },
+        {
+            "appid": "576215187",
+            "title": "ショパン 夜想曲",
+            "artist": "アルトゥール・ルービンシュタイン",
+            "iconSrc": "http://zininworks.com/img/576215187.png",
+            "storeLink": "https://itunes.apple.com/us/app/chopin-nocturnes-syncscore/id576215187?ls=1&mt=8",
+            "featuredItems": ["495443185", "488618314"]
+        },
+        {
+            "appid": "495443185",
+            "title": "ショパン 練習曲",
+            "artist": "クラウディオ・アラウ",
+            "iconSrc": "http://zininworks.com/img/495443185.png",
+            "storeLink": "http://itunes.apple.com/us/app/chopin-etudes-syncscore/id495443185?mt=8",
+            "featuredItems": ["449119069", "529056912"]
+        },
+        {
+            "appid": "458293237",
+            "title": "モーツァルト アイネ・クライネ・ナハトムジーク",
+            "artist": "カール・ベーム, ベルリン・フィル",
+            "iconSrc": "http://zininworks.com/img/458293237.png",
+            "storeLink": "http://itunes.apple.com/us/app/syncscore-mozart-eine-kleine/id458293237?mt=8",
+            "featuredItems": ["496176634", "529056912"]
+        },
+        {
+            "appid": "496176634",
+            "title": "モーツァルト ピアノ変奏曲",
+            "artist": "ヴァルター・ギーゼキング",
+            "iconSrc": "http://zininworks.com/img/496176634.png",
+            "storeLink": "http://itunes.apple.com/us/app/mozart-variations-for-piano/id496176634?mt=8",
+            "featuredItems": ["458293237", "455563613"]
+        },
+        {
+            "appid": "455563613",
+            "title": "ムソルグスキー 展覧会の絵",
+            "artist": "スヴャトスラフ・リヒテル",
+            "iconSrc": "http://zininworks.com/img/455563613.png",
+            "storeLink": "http://itunes.apple.com/us/app/syncscore-pictures-at-exhibition/id455563613?mt=8",
+            "featuredItems": ["529056912", "488618314"]
+        },
+        {
+            "appid": "487097767",
+            "title": "シューベルト 『冬の旅』",
+            "artist": "ディートリヒ・フィッシャー=ディースカウ",
+            "iconSrc": "http://zininworks.com/img/487097767.png",
+            "storeLink": "http://itunes.apple.com/us/app/schubert-winterreise-syncscore/id487097767?mt=8",
+            "featuredItems": ["888974275", "477067841"]
+        },
+        {
+            "appid": "888974275",
+            "title": "シューベルト 弦楽四重奏曲",
+            "artist": "ウィーン ・ コンツェルトハウス ・ カルテット",
+            "iconSrc": "http://zininworks.com/img/888974275.png",
+            "storeLink": "https://itunes.apple.com/us/app/schubert-string-quartets-syncscore/id888974275?ls=1&mt=8",
+            "featuredItems": ["487097767", "477067841"]
+        }
+    ]
+}
