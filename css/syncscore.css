@@ -173,6 +173,12 @@ app.html
 
 .app .store-link {
     margin-top: 20px;
+    width: 135px;
+    height: 40px;
+    background: no-repeat center 0;
+    background-image: url("/img/Available_on_the_App_Store.png");
+    background-image: url("/img/Available_on_the_App_Store.svg"), none;
+    display: inline-block;
 }
 
 .app .category-list{
