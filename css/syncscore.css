@@ -153,6 +153,13 @@ index.html
 app.html 
 */
 
+.header h1 a:link,
+.header h1 a:visited,
+.header h1 a:hover,
+.header h1 a:active {
+    color: #34495e;
+}
+
 .app .info {
     text-align: center;
 }

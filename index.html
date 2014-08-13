@@ -22,7 +22,7 @@
 
 <div class="header pure-g">
     <div class="l-box pure-u-1">
-        <h1>SyncScore</h1>
+        <h1><a href="http://syncscore.co">SyncScore</a></h1>
         <h2>Classical Music with Flowing Score</h2>
         <div class="video-container">
             <div class="video-box">
@@ -250,6 +250,14 @@
 
     <script src="/js/jquery-2.1.1.min.js"></script>
     <script src="/js/video.js"></script>
+    <script>
+      var host = window.location.host;
+      var pathname = window.location.pathname;
+      console.log(pathname);
+      if (host != "syncscore.co"){
+        window.location.replace("http://syncscore.co" + pathname);
+      }
+    </script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
