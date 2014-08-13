@@ -16,7 +16,14 @@
     <!--<![endif]-->
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
     <link rel="stylesheet" href="/css/syncscore.css">
-    <script src="/js/url.js"></script>
+    <script>
+      var host = window.location.host;
+      var pathname = window.location.pathname;
+      if (host == "zininworks.com"){
+          pathname = pathname.replace('/syncscoreco', '');
+          window.location.replace("http://syncscore.co" + pathname);
+      }
+    </script>
 </head>
 <body>
     
