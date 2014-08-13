@@ -16,6 +16,7 @@
     <!--<![endif]-->
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
     <link rel="stylesheet" href="/css/syncscore.css">
+    <script src="/js/url.js"></script>
 </head>
 <body>
     
@@ -342,14 +343,6 @@
 
     <script src="/js/jquery-2.1.1.min.js"></script>
     <script src="/js/video.js"></script>
-    <script>
-      var host = window.location.host;
-      var pathname = window.location.pathname;
-      if (host == "zininworks.com"){
-        pathname = pathname.replace('/syncscoreco', '');
-        window.location.replace("http://syncscore.co" + pathname);
-      }
-    </script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
