@@ -210,6 +210,16 @@ app.html
     line-height: 1.55em;
 }
 
+/* support.html */
+
+.apps.support .content-head {
+    width: 100%;
+}
+
+.support {
+    width: 90%;
+}
+
 /* >= 568px */
 @media screen and (min-width: 35.5em){
     
@@ -254,6 +264,11 @@ app.html
         -o-column-gap: 2em;
         -ms-column-gap: 2em;
         column-gap: 2em;
+    }
+
+    .support {
+        width: 600px;
+        margin: 0 auto;
     }
 }
 
