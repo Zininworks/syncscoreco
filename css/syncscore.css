@@ -72,14 +72,12 @@ some helpers
 /*
 index.html
 */
-
-.header .store-link {
-    width: 190px;
-    height: 56px;
-    background: no-repeat center 0;
-    background-image: url("/img/Available_on_the_App_Store.png");
-    background-image: url("/img/Available_on_the_App_Store.svg"), none;
-    display: inline-block;
+span.old {
+	text-decoration: line-through;
+	font-size: 14px;
+}
+.storeImage {
+	height: 56px;
 }
 
 .main-wrap {
@@ -188,6 +186,8 @@ app.html
     background-image: url("/img/Available_on_the_App_Store.svg"), none;
     display: inline-block;
 }
+
+
 
 .app .category-list{
     width: 23em;
